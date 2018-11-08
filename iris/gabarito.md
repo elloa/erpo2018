@@ -980,7 +980,7 @@ plt.show()
 ```
 
 
-![png](Gabarito%20ERPO%202018_files/Gabarito%20ERPO%202018_23_0.png)
+![png](gabarito_files/gabarito_23_0.png)
 
 
 ## Comparando Modelos - k-Vizinhos Mais Próximos
