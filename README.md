@@ -24,10 +24,10 @@ O minicurso irá considerar a prática de conceitos relativos ao Aprendizado de 
 
 1. [Slides](./elloa-erpo2018-slides.pdf)  
 2. [Dataset](https://raw.githubusercontent.com/elloa/erpo2018/master/iris/iris.csv)
-  * Clique com o botão direito em Salvar como ... (.csv)
-2. [Notebook](https://raw.githubusercontent.com/elloa/erpo2018/master/iris/Notebook ERPO 2018.ipynb)
-  * Clique com o botão direito em Salvar como ... (.ipynb)
-3. [Gabarito](./iris/Gabarito ERPO 2018.md)
+    * Clique com o botão direito em Salvar como ... (.csv)
+2. [Notebook](https://raw.githubusercontent.com/elloa/erpo2018/master/iris/notebook.ipynb)
+      * Clique com o botão direito em Salvar como ... (.ipynb)
+3. [Gabarito](./iris/gabarito.md)
 
 ## Referências
 
